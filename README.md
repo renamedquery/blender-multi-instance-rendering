@@ -4,6 +4,10 @@
 
 https://user-images.githubusercontent.com/38505228/185692568-09a10f1e-f4c2-4003-961c-dec1c9890666.mp4
 
+***Issues:***
+
+- The program doesn't enable placeholders, or disable overwriting, so please manually enable placeholders and disable overwriting in the rendering settings for now.
+
 ***Disclaimers:***
 
 - This is NOT an addon. It is a script that has to be added to every file you want to use multi-GPU rendering for. I'll make it into an addon in the future.
