@@ -2,6 +2,8 @@
 
 ### A script that allows you to render using multiple GPUs at once in Blender.
 
+https://user-images.githubusercontent.com/38505228/185692568-09a10f1e-f4c2-4003-961c-dec1c9890666.mp4
+
 ***Disclaimers:***
 
 - This is NOT an addon. It is a script that has to be added to every file you want to use multi-GPU rendering for. I'll make it into an addon in the future.
@@ -24,4 +26,6 @@
 
 ***Reporting Issues/Adding Suggestions***:
 
-To report an issue, or add a suggestion, raise an issue on the repo: https://github.com/katznboyz1/blender-multi-instance-rendering
+To report an issue, or add a suggestion, raise an issue on 
+
+the repo: https://github.com/katznboyz1/blender-multi-instance-rendering
